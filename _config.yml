@@ -223,6 +223,8 @@ collections:
     output: false     # was: true
   talks:
     output: false     # was: true
+  guide:
+    output: false     # was: true
 
 
 # These settings control how pages and collections are included in the site
