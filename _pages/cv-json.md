@@ -27,11 +27,6 @@ redirect_from:
   }
 </style>
 
-{% include cv-template.html %}
-
-<div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
-</div>
 
 ## Education
 
@@ -124,3 +119,8 @@ redirect_from:
 * Member, Pittsburgh Men’s Glee Club  
 * Fundraising Committee, Tar Heel Voices (UNC)  
 * Class President, Pham Ngoc Thach University (2014–2016)
+
+
+<div class="cv-download-links">
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+</div>
