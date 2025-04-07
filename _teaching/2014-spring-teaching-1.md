@@ -2,8 +2,6 @@
 layout: teaching
 title: "All Teaching Experiences"
 author_profile: false
-redirect_from:
-  - /teaching-combined
 ---
 
 {% include base_path %}
