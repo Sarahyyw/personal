@@ -219,12 +219,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio: false
-    output: false
-    permalink: /:collection/:path/
+  portfolio:
+    output: false     # was: true
   talks:
-    output: false
-    permalink: /:collection/:path/
+    output: false     # was: true
 
 
 # These settings control how pages and collections are included in the site
