@@ -1,20 +1,73 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+layout: teaching
+title: "All Teaching Experiences"
+author_profile: false
+redirect_from:
+  - /teaching-combined
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+{% include base_path %}
 
-Heading 1
-======
+<link rel="stylesheet" href="{{ base_path }}/assets/css/cv-style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
-Heading 2
-======
+<style>
+  .archive {
+    width: 80%;
+    margin: 0 auto;
+    float: none;
+    padding-right: 0;
+  }
+  
+  @media (min-width: 80em) {
+    .archive {
+      width: 70%;
+    }
+  }
+</style>
 
-Heading 3
-======
+{% include cv-template.html %}
+
+<div class="cv-download-links">
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
+</div>
+
+# Teaching Experiences
+
+Below is a consolidated list of my teaching experiences:
+
+---
+
+## Graduate Teaching Assistant — University of Pittsburgh
+
+**Courses Taught:**
+- **BIOST 2086: Mixed Models** (Spring 2024)
+- **BIOST 2050: Longitudinal Data Analysis** (Fall 2023)
+- **BIOST 2041: Statistical Methods** (Spring 2022)
+- **BIOST 2038: Statistical Theory** (Fall 2021, 2022)
+
+**Description:**  
+In my role as a Graduate TA at the University of Pittsburgh, I assisted in the delivery of advanced biostatistics courses. My responsibilities included leading discussion sessions, grading assignments, and facilitating review sessions to enhance students' learning experiences.
+
+---
+
+## Teaching Assistant — Institute for Clinical Research Education
+
+**Course:**
+- **CLRES 2020/2005: Biostatistics & Computing** (Summers 2022, 2024)
+
+**Description:**  
+At the Institute for Clinical Research Education, I supported courses by organizing lab sessions, mentoring students in biostatistics and computing, and providing technical assistance during class projects.
+
+---
+
+## Undergraduate Teaching Assistant — UNC-Chapel Hill
+
+**Course:**
+- **MATH 547: Linear Algebra** (Fall 2019)
+
+**Description:**  
+Serving as an Undergraduate TA at UNC-Chapel Hill, I facilitated tutorials, assisted with problem-solving sessions, and provided academic support for students enrolled in Linear Algebra.
+
+---

@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my homepage! My name is Thien Quy Pham, and I am a PhD candidate in Biostatistics at the University of Pittsburgh. I came to America in 2017 after spending several years in medical school in Vietnam. Moving here helped me explore new academic directions and ultimately shift my focus to statistics :).
+Hello and welcome to my homepage! My name is Thien Quy Pham, and I am a PhD candidate in Biostatistics at the University of Pittsburgh. I earned my B.S. in Mathematics and Statistics from the University of North Carolina at Chapel Hill, and prior to that, I spent several years in medical school in Vietnam. My journey across disciplines and continents has shaped my deep interest in statistical modeling and its applications in biomedical research.
 
-My advisor is George Tseng, and my research lies at the intersection of circadian biology, Bayesian modeling, and multi-omics data integration. I am passionate about developing statistical and machine learning methods to uncover temporal dynamics in biological systems and improve our understanding of health and disease.
+I am fortunate to be advised by Dr. George Tseng, and my research lies at the intersection of circadian biology, Bayesian modeling, and multi-omics data integration. I am passionate about developing statistical and machine learning methods to uncover temporal patterns in biological systems and contribute to our understanding of health and disease.
 
-This site showcases my publications, CV, teaching, and current projects. Thanks for visiting!
+Beyond circadian research, I have engaged in a wide range of collaborative projects spanning bioinformatics, multi-omics analysis, and infectious disease. Beyond my academic life, I enjoy singing and playing with my cat :). 
+
+This site highlights my publications, CV, teaching experience, and current research projects. Thank you for visiting!
 
 
 
