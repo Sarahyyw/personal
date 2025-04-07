@@ -4,11 +4,27 @@ title: "University of Pittsburgh"
 collection: teaching
 type: "Graduate courses"
 permalink: /teaching/graduate
-venue: "University of Pittsburgh"
-years: "2021–2026"
+venue: "University of Pittsburgh""
 location: "Pittsburgh, PA, USA"
 author_profile: true 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Course:**
+- Serving as Teaching Assistant and Teaching Fellow for various graduate courses in both theoretical and applied statistics. 
+
 
 
 ## Graduate Teaching Assistant — University of Pittsburgh

@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume-json
 ---
-
 {% include base_path %}
 
 <link rel="stylesheet" href="{{ base_path }}/assets/css/cv-style.css">
@@ -19,14 +18,33 @@ redirect_from:
     float: none;
     padding-right: 0;
   }
-  
+
   @media (min-width: 80em) {
     .archive {
       width: 70%;
     }
   }
+
+  .cv-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+
+  .cv-download-links .btn {
+    margin-left: 1rem;
+    white-space: nowrap;
+  }
 </style>
 
+<!-- Header section with title and download link side-by-side -->
+<div class="cv-header">
+  <h1>Curriculum Vitae</h1>
+  <div class="cv-download-links">
+    <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+  </div>
+</div>
 
 ## Education
 
@@ -120,7 +138,3 @@ redirect_from:
 * Fundraising Committee, Tar Heel Voices (UNC)  
 * Class President, Pham Ngoc Thach University (2014–2016)
 
-
-<div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
-</div>
