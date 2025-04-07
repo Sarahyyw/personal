@@ -1,11 +1,10 @@
 ---
 layout: teaching
-title: "University of North Carolina - Chapel Hill"
+title: "University of North Carolina - Chapel Hill (2017–2021)"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/undergraduate
 venue: "University of North Carolina - Chapel Hill, Mathematics"
-years: "2017–2021"
 location: "Chapel Hill, NC, USA"
 author_profile: true 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: teaching
-title: "University of Pittsburgh"
+title: "University of Pittsburgh (2021-2026)"
 collection: teaching
 type: "Graduate courses"
 permalink: /teaching/graduate
@@ -8,18 +8,6 @@ venue: "University of Pittsburgh""
 location: "Pittsburgh, PA, USA"
 author_profile: true 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 **Course:**
