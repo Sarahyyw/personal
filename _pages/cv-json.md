@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv-json/
 author_profile: true
 redirect_from:
@@ -45,6 +45,7 @@ redirect_from:
     <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
   </div>
 </div>
+
 
 ## Education
 
