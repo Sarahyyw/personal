@@ -220,11 +220,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false     # was: true
+    output: true     # was: true
   talks:
-    output: false     # was: true
-  guide:
-    output: false     # was: true
+    output: true     # was: true
+
 
 
 # These settings control how pages and collections are included in the site
