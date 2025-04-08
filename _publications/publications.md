@@ -27,4 +27,4 @@ author_profile: true
   
 4. Toan Ha, **Thien Quy Pham**, Tom Wen-Han Su, Lam Ha, Rogie Royce Carandang, Stephen L. Schensul. (2024).
    *Female migrant workers, health, sexual and reproductive health and psychological well-being: A challenging intersection.*
-   _[BMC Public Health]_,[in revision]
+   _[BMC Public Health]_, [in revision]
