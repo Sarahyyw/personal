@@ -6,7 +6,7 @@ type: "Undergraduate courses"
 permalink: /teaching/undergraduate
 venue: "University of North Carolina - Chapel Hill, Mathematics"
 location: "Chapel Hill, NC, USA"
-dates: "2017-2021"
+range: "2017-2021"
 author_profile: true 
 ---
 
