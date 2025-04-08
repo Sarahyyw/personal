@@ -4,15 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-** Methodological Research 
-- Thien Quy Pham, George Tseng, et al. (2025).
-  *A Bayesian framework to investigate Cross-species congruence in Circadian Rhythm*.  [in preparation]
+**Methodological Research**
+- **Thien Quy Pham**, George Tseng, et al. (2025).
+  *A Bayesian framework to investigate Cross-species congruence in Circadian Rhythm*, [in preparation]
   
-- Thien Quy Pham, George Tseng, et al. (2025).
-  *Inferring Shared and Divergent Circadian Phase Programs Across Species with Bayesian Meta-Analysis*. [in preparation] 
+- **Thien Quy Pham**, George Tseng, et al. (2025).
+  *Inferring Shared and Divergent Circadian Phase Programs Across Species with Bayesian Meta-Analysis*, [in preparation] 
   
 
-** Collaboration Research 
+**Collaboration Research**
 1. Carlos Murillo, Ester Cerezo-Téllez, María Torres-Lacomba, **Thien Quy Pham**, Enrique Lluch, Deborah Falla, Tat-Thang Vo. (2024).  
   *Unraveling the Mechanisms Behind the Short-Term Effects of Dry Needling: New Insights From a Mediation Analysis With Repeatedly Measured Mediators and Outcomes.*  
   _Archives of Physical Medicine and Rehabilitation_, 105(12), 2269–2276.
@@ -27,4 +27,4 @@ author_profile: true
   
 4. Toan Ha, **Thien Quy Pham**, Tom Wen-Han Su, Lam Ha, Rogie Royce Carandang, Stephen L. Schensul. (2024).
    *Female migrant workers, health, sexual and reproductive health and psychological well-being: A challenging intersection.*
-   _[BMC Public Health]_. [in revision]
+   _[BMC Public Health]_,[in revision]
