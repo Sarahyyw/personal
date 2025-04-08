@@ -6,7 +6,7 @@ type: "Graduate courses"
 permalink: /teaching/graduate
 venue: "University of Pittsburgh"
 location: "Pittsburgh, PA, USA"
-dates: "2021-2026"
+range: "2021-2026"
 author_profile: true 
 ---
 
