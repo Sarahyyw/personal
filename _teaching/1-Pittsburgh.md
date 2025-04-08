@@ -4,7 +4,7 @@ title: "University of Pittsburgh"
 collection: teaching
 type: "Graduate courses"
 permalink: /teaching/graduate
-venue: "University of Pittsburgh""
+venue: "University of Pittsburgh"
 location: "Pittsburgh, PA, USA"
 dates: "2021-2026"
 author_profile: true 
