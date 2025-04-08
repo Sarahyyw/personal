@@ -7,19 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my homepage! My name is Thien Quy Pham, and I am a PhD candidate in Biostatistics at the University of Pittsburgh. I earned my B.S. in Mathematics and Statistics from the University of North Carolina at Chapel Hill, and prior to that, I spent several years in medical school in Vietnam. My journey across disciplines and continents has shaped my deep interest in statistical modeling and its applications in biomedical research.
+Hello and welcome to my homepage! I’m Thien Quy Pham, a PhD candidate in Biostatistics at the University of Pittsburgh. My journey began in medical school in Vietnam, where I discovered a passion for research that led me to transfer to the University of North Carolina at Chapel Hill. There, I earned a B.S. in Mathematics and Statistics and developed a keen interest in applying quantitative methods to biomedical questions.
 
-I am fortunate to be advised by Dr. George Tseng, and my research lies at the intersection of circadian biology, Bayesian modeling, and multi-omics data integration. I am passionate about developing statistical and machine learning methods to uncover temporal patterns in biological systems and contribute to our understanding of health and disease.
+I’m now fortunate to be advised by Dr. George Tseng, focusing my research on Bayesian modeling, circadian biology, and multi-omics data integration. I find it exciting to uncover hidden temporal patterns in biological systems and contribute to our understanding of health and disease.
 
-Beyond circadian research, I have engaged in a wide range of collaborative projects spanning bioinformatics, multi-omics analysis, and infectious disease. Beyond my academic life, I enjoy singing and playing with my cat :). 
+My collaborative work spans bioinformatics, multi-omics analysis, and infectious disease. I work with a wide range of datasets—from RNA-seq, single-cell, proteomics, and ATAC to clinical, panel, and longitudinal studies. When I’m not diving into data, I love singing and spending time with my cat :).
 
-This site highlights my publications, CV, teaching experience, and current research projects. Thank you for visiting!
-
-
-
-
-
-
+Feel free to explore my site for publications, my CV, teaching experience, and current research projects. Thank you for visiting!
 
 
 
