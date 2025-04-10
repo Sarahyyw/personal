@@ -126,7 +126,7 @@ redirect_from:
 
 ## Awards
 
-* Travel Funding Award – STATGEN Conference, 2025
+* Travel Funding Award – STATGEN Conference (2025)
 * Dean's Day Biostatistics Doctoral Award (2025)
 * Outstanding Teaching Assistant (TA) Award (2025)
 * Phi Beta Kappa, UNC (Top 1%)  
