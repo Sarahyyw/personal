@@ -126,7 +126,9 @@ redirect_from:
 
 ## Awards
 
-* Outstanding Teaching Assistant (TA) Award (2025)  
+* Travel Funding Award – STATGEN Conference, 2025
+* Dean's Day Biostatistics Doctoral Award (2025)
+* Outstanding Teaching Assistant (TA) Award (2025)
 * Phi Beta Kappa, UNC (Top 1%)  
 * ICCA Semi-Finalist (2019 & 2020)  
 * Multiple “Outstanding Student” awards, Pham Ngoc Thach University  
