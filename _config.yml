@@ -9,27 +9,27 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Thien Quy Pham"
+title                    : "Sarah Wang"
 title_separator          : "-"
-name                     : &name "Thien"
+name                     : &name "Sarah"
 description              : &description "personal description"
-url                      : https://quythien.github.io/personal/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://Sarahyyw.github.io/personal/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "quythien/personal" # the name of your GitHub repository, e.g. "username/repository"
+repository               : "Sarahyyw/personal" # the name of your GitHub repository, e.g. "username/repository"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Thien Quy Pham"
-  pronouns         : "he/him/his"  
+  avatar           : "me.png"
+  name             : "Sarah"
+  pronouns         : "she/her"  
   bio              : "Ph.D. candidate in Biostatistics"
   location         : "U.S.A."
   employer         : "University of Pittsburgh"
   uri              : # URL
-  email            : "qtp1@pitt.edu" 
+  email            : "yaw130@pitt.edu" 
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
