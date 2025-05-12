@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my homepage! I’m Thien Quy Pham, a PhD candidate in Biostatistics at the University of Pittsburgh. My journey began in medical school in Vietnam, where I discovered a passion for research that led me to transfer to the University of North Carolina at Chapel Hill. There, I earned a B.S. in Mathematics and Statistics and developed a keen interest in applying quantitative methods to biomedical questions.
+Hello and welcome to my homepage! I’m Sarah Wang, a second-year PhD student in Biostatistics at the University of Pittsburgh, where I have the privilege of working under the guidance of Dr. George C. Tseng. My academic journey began with a Bachelor's degree in Applied Statistics and Economics from the University of Toronto, and later, I pursued a Master’s in Biostatistics at Columbia University's Mailman School of Public Health. It was during my time at Columbia that I developed a deep passion for Biostatistics and its potential to address complex health challenges.
 
-I’m now fortunate to be advised by Dr. George Tseng, focusing my research on Bayesian modeling, circadian biology, and multi-omics data integration. I find it exciting to uncover hidden temporal patterns in biological systems and contribute to our understanding of health and disease.
+My research interests are driven by a strong focus on statistical computing and its application to biomedicine. I’m particularly interested in the meta-analysis of both homogeneous and heterogeneous signals, pathway-guided disease subtyping, statistical computing, and multi-omics data integration. In addition to my methodological research, I am currently collaborating with the Lee-Oesterreich lab to explore the molecular mechanisms behind breast cancer development and therapy resistance, with the ultimate goal of improving outcomes for breast cancer patients!
 
-My collaborative work spans bioinformatics, multi-omics analysis, and infectious disease. I work with a wide range of datasets—from RNA-seq, single-cell, proteomics, and ATAC to clinical, panel, and longitudinal studies. When I’m not diving into data, I love singing and spending time with my cat :).
 
-Feel free to explore my site for publications, my CV, teaching experience, and current research projects. Thank you for visiting!
 
 
 
